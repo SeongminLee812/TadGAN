@@ -22,11 +22,11 @@
 	2. xco2set의 경우 1/4이상이 0.0으로 기록되어 있으며, 일부 농가에서는 3/4 가량이 0.0이므로 결측치가 너무 많다고 판단되어 모델링에서 제외 (Boxplot.jpeg 참고)
 	
 - datetime과 탐지하고자하는 환경데이터로 구성된 데이터셋을 사용
-  !()[./attachment/Pasted image 20230831120026.png]
+  ![returns](https://github.com/SeongminLee812/TadGAN/assets/105956513/e35dae92-5b46-4394-8012-90998376a298)
 ### Returns
 - Tadgan 모델은 point anomaly를 탐지하는 것이 아니라, context anomaly를 탐지하므로, 기간과 severity가 출력
 - 출력값 형태는 아래와 같음
-![[Pasted image 20230831115037.png]]
+![returns](https://github.com/SeongminLee812/TadGAN/assets/105956513/e35dae92-5b46-4394-8012-90998376a298)
 - TadGAN이 탐지한 이상치 예시
 	- 파란 점 : 관측 값
 	- 빨간 색칠 부분 : 이상치로 탐지된 기간
