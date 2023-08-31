@@ -57,9 +57,10 @@ if __name__ == '__main__':
 	farm = Tadgan(str(sys.argv[1]))  
 	farm.load_data()  
 	farm.load_model()  
-	farm.detect('xinsunadd')  
 	farm.predict()  
-
+```
+```bash
+python detect.py 'mysb2_1'
 ```
 - main 함수는 사용 형태에 맞게 변경해서 사용
 <br><br>
