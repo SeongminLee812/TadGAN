@@ -62,8 +62,8 @@ if __name__ == '__main__':
 
 ```
 - main 함수는 사용 형태에 맞게 변경해서 사용
+<br><br>
 
-<br>
 ![Pasted image 20230831120659](https://github.com/SeongminLee812/TadGAN/assets/105956513/5390ce97-a7bb-469c-9dc6-e2c1362c24cc)<br>
 ![Pasted image 20230831120710](https://github.com/SeongminLee812/TadGAN/assets/105956513/88118eb8-b6e7-4ec1-ac81-8693b75a11a5)<br>
 ![Pasted image 20230831120719](https://github.com/SeongminLee812/TadGAN/assets/105956513/24546b96-ace2-41fd-9159-a1195d751334)<br>
